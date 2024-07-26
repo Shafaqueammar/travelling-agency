@@ -1,0 +1,1 @@
+$(window).load(function(){jQuery("#menu_toggle").change(function(){if(this.checked){jQuery('.top-nav').show();}else{jQuery('.top-nav').hide();}});});
